@@ -2,11 +2,9 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>My Website</title>
         <link rel="stylesheet" href="notion1.css">
         <link rel="stylesheet" href="notion1.responsive.css">
         <link rel="stylesheet" href="https://fontawesome.com/v5.15/icons?d=gallery&p=2">
-        <script src="https://kit.fontawesome.com/06c547d90a.js" crossorigin="anonymous"></script>
     </head>
     <body>
         <div class="header">
